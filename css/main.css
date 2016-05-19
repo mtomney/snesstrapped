@@ -1,0 +1,38 @@
+body {
+	background-color: #cccccc;
+}
+.navbar-custom {
+    background-color:#b366ff;
+}
+.icon-bar {
+	background-color: black;
+}
+.navtab {
+	background-color: #4d0099;
+}
+h1 {
+	font-size: 400%;
+	font-weight: bold;
+	text-shadow: 2px 2px #b366ff;
+}
+#jumbo {
+	background-color: #b366ff;
+}
+#dkhome {
+	width: 420px;
+	height: 278px;
+}
+#jumbointro {
+	text-decoration-color: #4d0099;
+	font-weight: bold;
+	padding: 40px 0px 0px 10px;
+}
+.socialmedia {
+	margin-top:10px;
+	border: black medium solid;
+	border-radius: 10px;
+	padding: 20px 20px 20px 20px;
+}
+.social {
+	font-size: 150%;
+}
